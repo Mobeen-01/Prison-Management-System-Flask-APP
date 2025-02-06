@@ -52,10 +52,6 @@ Before using the Prison Management System, ensure that you have the following in
 
 2. **MySQL** for the database:
    - Ensure MySQL server is running and accessible.
-   - Create a database for the prison management system.
-
-3. **Frontend**:
-   - Static files (HTML, CSS, JavaScript) included in the project directory.
 
 ### Setting Up the Project
 
@@ -81,27 +77,6 @@ Before using the Prison Management System, ensure that you have the following in
 5. **Access the Application**:
    - Open a web browser and visit `http://localhost:5000` to access the system.
 
-### How to Perform Operations
-
-#### 1. **Login**
-   - Upon launching the system, the login page will appear.
-   - Enter your username and password. Upon successful login, you will be redirected to the dashboard.
-
-#### 2. **Add Prisoner Information**
-   - From the dashboard, you can add a new prisoner by providing details like Prisoner ID, Name, Charges, Sentence Duration, etc.
-   - Click the **Add Prisoner** button to submit.
-
-#### 3. **View Prisoner Data**
-   - You can view the list of all prisoners stored in the system by clicking the **View Prisoners** button.
-
-#### 4. **Search Prisoner**
-   - Use the search feature to look up prisoner details by ID, name, or other attributes.
-
-#### 5. **Track Prisoner Movement**
-   - Track the movement of prisoners within the system by entering details such as date, time, and prisoner location.
-
-#### 6. **Update or Delete Information**
-   - Update or delete prisoner information from the system as necessary. Use the **Edit** or **Delete** options next to each prisoner’s record.
 
 ### System Execution Sequence
 
@@ -109,22 +84,6 @@ Before using the Prison Management System, ensure that you have the following in
 2. **Dashboard**: After login, navigate to the dashboard where you can manage prisoner records.
 3. **Operations**: Perform various operations such as adding new prisoners, tracking movements, and generating reports.
 
-### Screenshot of Operations
-
-- **Login Page**:
-   ![Login Page](screenshots/login_page.png)
-
-- **Add Prisoner Form**:
-   ![Add Prisoner](screenshots/add_prisoner.png)
-
-- **Prisoner Records**:
-   ![Prisoner Records](screenshots/prisoner_records.png)
-
-## Conclusion
-
-The **Prison Management System** streamlines the processes involved in managing prisoners, improving the efficiency and accuracy of record-keeping. By automating critical tasks, the system ensures better resource management and provides a more secure, user-friendly platform for prison staff and government officials alike.
-
-This project provides a prototype solution for prison management that can be scaled and customized for use in real-world settings, particularly in developing countries like Pakistan.
 
 ## License
 
