@@ -30,6 +30,14 @@ By automating prisoner data entry, updating records, and retrieving information,
 - **Centralized System**: Access prisoner records globally, with a web-based solution that can be accessed from any location with an internet connection.
 - **Cost Reduction**: Reduces the need for paper-based records, minimizing maintenance costs and the risk of data loss.
 
+### Detailed Report 📑
+
+A detailed report outlining the entire project, including methodologies, system execution, and more, has been included in the project folder. You can find the report at:
+
+`Report/Report.pdf` 📄
+
+This report provides a comprehensive overview of the design, implementation, and functionality of the system.
+
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
